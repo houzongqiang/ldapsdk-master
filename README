@@ -1,0 +1,39 @@
+This is the source code and build environment for the UnboundID LDAP SDK for
+Java, a fast, comprehensive, and easy-to-use Java API for communicating with
+LDAP directory servers and performing related tasks like reading and writing
+LDIF, encoding and decoding data using Base64 and ASN.1 BER, and performing
+secure communication.
+
+The LDAP SDK is open source under the terms of the GPLv2 and LGPLv2.1 licenses.
+It is also available under the non-open source UnboundID LDAP SDK Free Use
+License, which allows the LDAP SDK to be freely used in free or commercial
+applications as long as the LDAP SDK itself is not altered.  See the
+LICENSE-GPLv2.txt, LICENSE-LGPLv2.1.txt, and LICENSE-UnboundID-LDAPSDK.txt
+files for the specific details of each license.
+
+The easiest way to build the LDAP SDK is to simply run the build.sh shell
+script (or the build.bat batch file on Windows systems) without any arguments,
+or to invoke Apache Ant directly and target the build.xml build file.  The
+resulting build files may be found in the build/package directory.
+
+To ask questions, provide feedback, report bugs, submit feature requests, or
+engage in any other discussion about the LDAP SDK, you may use one of the
+following options:
+
+- For bug reports and feature requests, use the GitHub issue tracker at
+  https://github.com/pingidentity/ldapsdk/issues
+
+- For questions, feedback, and other discussions, use the online discussion
+  forum at http://sourceforge.net/p/ldap-sdk/discussion/ or the
+  ldap-sdk-discuss@lists.sourceforge.net mailing list.  See
+  https://sourceforge.net/p/ldap-sdk/mailman/ldap-sdk-discuss/ for more
+  information about this mailing list, including an archive and information
+  about how to subscribe.
+
+- If you'd rather not have the communication in public, send an email message
+  to ldapsdk-support@pingidentity.com.
+
+- If you have an UnboundID or Ping Identity support contract, you may get
+  assistance with the LDAP SDK in the same way as for other UnboundID/Ping
+  Identity products.  Contact ldapsdk-support@pingidentity.com for more
+  information about obtaining a support contract specifically for the LDAP SDK.
